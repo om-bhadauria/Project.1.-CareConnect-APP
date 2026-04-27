@@ -1,0 +1,166 @@
+{
+  "placeholderImages": [
+    {
+      "id": "doc1",
+      "description": "Dr. Sandeep Shrivastava",
+      "imageUrl": "https://images.unsplash.com/photo-1730597842283-943c7986ee2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZG9jdG9yJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzU4ODAzMDEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor portrait"
+    },
+    {
+      "id": "doc2",
+      "description": "Dr. R.K. Sodani",
+      "imageUrl": "https://images.unsplash.com/photo-1758127211629-81c0df0592cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkb2N0b3IlMjBzbWlsaW5nfGVufDB8fHx8MTc1ODc4NjQwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor smiling"
+    },
+    {
+      "id": "doc3",
+      "description": "Dr. Z.S. Rana",
+      "imageUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGh5c2ljaWFufGVufDB8fHx8MTc1ODg3ODEzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "physician"
+    },
+    {
+      "id": "doc4",
+      "description": "Dr. Abha Jain",
+      "imageUrl": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtZWRpY2FsJTIwcHJvZmVzc2lvbmFsfGVufDB8fHx8MTc1ODgyNDc3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "medical professional"
+    },
+    {
+      "id": "doc5",
+      "description": "Dr. Sanjay Porwal",
+      "imageUrl": "https://images.unsplash.com/photo-1638202993928-7267aad84c31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMGRvY3RvcnxlbnwwfHx8fDE3NTg4MTE1OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman doctor"
+    },
+    {
+      "id": "doc6",
+      "description": "Dr. Salil Bhargava",
+      "imageUrl": "https://images.unsplash.com/photo-1588776813941-dcf9c55e84d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdXJnZW9ufGVufDB8fHx8MTc1ODg3ODEzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "surgeon"
+    },
+    {
+      "id": "doc7",
+      "imageUrl": "https://images.unsplash.com/photo-1659353887804-fc7f9313021a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkb2N0b3IlMjBjYXJkaW9sb2dpc3R8ZW58MHx8fHwxNzU4ODc4OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor cardiologist",
+      "description": "Dr. Ankur Gahlot"
+    },
+    {
+      "id": "doc8",
+      "imageUrl": "https://images.unsplash.com/photo-1659353885824-1199aeeebfc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkb2N0b3IlMjBjYXJkaW9sb2dpc3R8ZW58MHx8fHwxNzU4ODc4OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor cardiologist",
+      "description": "Dr. Priyamvada Singh"
+    },
+    {
+      "id": "doc9",
+      "imageUrl": "https://images.unsplash.com/photo-1659353888306-e06177765540?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkb2N0b3IlMjBuZXVyb2xvZ2lzdHxlbnwwfHx8fDE3NTg4Nzg5NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor neurologist",
+      "description": "Dr. Alok Mandliya"
+    },
+    {
+      "id": "doc10",
+      "imageUrl": "https://images.unsplash.com/photo-1659353888352-5dbb14b80eca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkb2N0b3IlMjBuZXVyb2xvZ2lzdHxlbnwwfHx8fDE3NTg4Nzg5NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor neurologist",
+      "description": "Dr. Jyoti Sureka"
+    },
+    {
+      "id": "doc11",
+      "imageUrl": "https://images.unsplash.com/photo-1691934338633-178293da4a99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkb2N0b3IlMjBzdXJnZW9ufGVufDB8fHx8MTc1ODg3ODk1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor surgeon",
+      "description": "Dr. Tanay Padgaonkar"
+    },
+    {
+      "id": "doc12",
+      "imageUrl": "https://images.unsplash.com/photo-1691934286120-8332dfcc0cb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkb2N0b3IlMjBzdXJnZW9ufGVufDB8fHx8MTc1ODg3ODk1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor surgeon",
+      "description": "Dr. Ashish Agrawal"
+    },
+    {
+      "id": "doc13",
+      "imageUrl": "https://images.unsplash.com/photo-1642975967602-653d378f3b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkb2N0b3IlMjBkZXJtYXRvbG9naXN0fGVufDB8fHx8MTc1ODg3ODk1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor dermatologist",
+      "description": "Dr. Sunil Kumar"
+    },
+    {
+      "id": "doc14",
+      "imageUrl": "https://images.unsplash.com/photo-1565090567208-c8038cfcf6cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkb2N0b3IlMjBkZXJtYXRvbG9naXN0fGVufDB8fHx8MTc1ODg3ODk1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor dermatologist",
+      "description": "Dr. Nidhi Gupta"
+    },
+    {
+      "id": "doc15",
+      "imageUrl": "https://images.unsplash.com/photo-1758691462666-6470b740f544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkb2N0b3IlMjBwZWRpYXRyaWNpYW58ZW58MHx8fHwxNzU4ODc4OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor pediatrician",
+      "description": "Dr. Priyanka Singh"
+    },
+    {
+      "id": "doc16",
+      "imageUrl": "https://images.unsplash.com/photo-1632053005736-6bd9cfc4daf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkb2N0b3IlMjBwZWRpYXRyaWNpYW58ZW58MHx8fHwxNzU4ODc4OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor pediatrician",
+      "description": "Dr. Ravi Dosi"
+    },
+    {
+      "id": "doc17",
+      "imageUrl": "https://images.unsplash.com/photo-1606812828454-e8a3c28b6e78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkb2N0b3IlMjBwaHlzaWNpYW58ZW58MHx8fHwxNzU4ODc4OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor physician",
+      "description": "Dr. Manish Jain"
+    },
+    {
+      "id": "doc18",
+      "imageUrl": "https://images.unsplash.com/photo-1663182107973-abb58c2c13e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZG9jdG9yJTIwcGh5c2ljaWFufGVufDB8fHx8MTc1ODg3ODk1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor physician",
+      "description": "Dr. Anita Sharma"
+    },
+    {
+      "id": "doc19",
+      "imageUrl": "https://images.unsplash.com/photo-1612531385446-f7e6d131e1d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkb2N0b3IlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg4MDMwMTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor portrait",
+      "description": "Dr. Rajesh Kumar - Delhi"
+    },
+    {
+      "id": "doc20",
+      "imageUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21hbiUyMGRvY3RvcnxlbnwwfHx8fDE3NTg4MTE1OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman doctor",
+      "description": "Dr. Priya Sharma - Mumbai"
+    },
+    {
+      "id": "doc21",
+      "imageUrl": "https://images.unsplash.com/photo-1758691463393-a2aa9900af8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkb2N0b3IlMjBzbWlsaW5nfGVufDB8fHx8MTc1ODc4NjQwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor smiling",
+      "description": "Dr. Amit Patel - Bangalore"
+    },
+    {
+      "id": "doc22",
+      "imageUrl": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwaHlzaWNpYW58ZW58MHx8fHwxNzU4ODc4MTM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "physician",
+      "description": "Dr. Sneha Reddy - Hyderabad"
+    },
+    {
+      "id": "doc23",
+      "imageUrl": "https://images.unsplash.com/photo-1562673462-877b3612cbea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtZWRpY2FsJTIwcHJvZmVzc2lvbmFsfGVufDB8fHx8MTc1ODgyNDc3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "medical professional",
+      "description": "Dr. Vikram Singh - Chennai"
+    },
+    {
+      "id": "doc24",
+      "imageUrl": "https://images.unsplash.com/photo-1640876777002-badf6aee5bcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdXJnZW9ufGVufDB8fHx8MTc1ODg3ODEzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "surgeon",
+      "description": "Dr. Anjali Bose - Kolkata"
+    },
+    {
+      "id": "doc25",
+      "imageUrl": "https://images.unsplash.com/photo-1659353887977-c310d90c751a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkb2N0b3IlMjBjYXJkaW9sb2dpc3R8ZW58MHx8fHwxNzU4ODc4OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor cardiologist",
+      "description": "Dr. Rohan Gupta - Pune"
+    },
+    {
+      "id": "doc26",
+      "imageUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21hbiUyMGRvY3RvcnxlbnwwfHx8fDE3NTg4MTE1OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman doctor",
+      "description": "Dr. Meera Iyer - Ahmedabad"
+    },
+    {
+      "id": "doc-fallback",
+      "imageUrl": "https://images.unsplash.com/photo-1622253692010-333f2da60710?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkb2N0b3J8ZW58MHx8fHwxNzU4ODgyMjk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor",
+      "description": "Fallback doctor image"
+    }
+  ]
+}
